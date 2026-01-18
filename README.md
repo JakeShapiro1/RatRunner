@@ -1,6 +1,6 @@
 <h1>Rat Runner</h1>
 
-<img src="https://i.imgur.com/JgcHjB5.png" height="80%" width="80%" alt="Dualing Drivers Demo"/>
+<img src="https://i.imgur.com/V1qp71o.png" height="80%" width="80%" alt="Rat Runner Image"/>
 
 ### [YouTube Demonstration](https://youtu.be/-6-AxN3fKnk)
 
